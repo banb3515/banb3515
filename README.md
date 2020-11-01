@@ -1,5 +1,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515" />
 
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2F&count_bg=%235BB418&title_bg=%232EB5FC&icon=csharp.svg&icon_color=%235E25BE&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/banb3515?color=2F9D27&label=Follow&logo=GitHub)
 
@@ -7,6 +6,8 @@
 > 한양공업고등학교, 컴퓨터네트워크과 
 > 
 > Hanyang Technical High School, Computer Network Department 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515" />
 
 ## **🔎 관심있는 것 (Interesting)**
 > C#, Java, JavaScript 
