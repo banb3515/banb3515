@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2F&count_bg=%235BB418&title_bg=%232EB5FC&icon=csharp.svg&icon_color=%235E25BE&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2F&count_bg=%235BB418&title_bg=%232EB5FC&icon=csharp.svg&icon_color=%235E25BE&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/banb3515?label=Follower&logo=GitHub&style=flat-square)
 
 ## **🏫 소속 (Affiliation)**
 > 한양공업고등학교, 컴퓨터네트워크과 
