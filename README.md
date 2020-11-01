@@ -4,7 +4,7 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/banb3515)](https://www.facebook.com/banb3515)
 
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:banb3515@outlook.kr)](mailto:banb3515@outlook.kr)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:banb3515@outlook.kr)](mailto:banb3515@outlook.kr)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
 
