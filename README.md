@@ -7,7 +7,7 @@
 > 
 > Hanyang Technical High School, Computer Network Department 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&layout=compact&theme=tokyonight" />
 
 ## **🔎 관심있는 것 (Interesting)**
 > C#, Java, JavaScript 
