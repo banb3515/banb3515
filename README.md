@@ -2,7 +2,7 @@
 
 ## **🏫 소속 (Affiliation)**
 > 한양공업고등학교, 컴퓨터네트워크과
-> #### Hanyang Technical High School, Computer Network Department
+> ##### Hanyang Technical High School, Computer Network Department
 
 ## **🔎 관심있는 것 (Interesting)**
 > C#, Java, JavaScript
