@@ -13,7 +13,7 @@
 ## **🔗 바로가기 (Shortcuts)**
 > [![Blog Badge](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=white&link=)]() [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/banb3515)](https://www.facebook.com/banb3515) [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:banb3515@outlook.kr)](mailto:banb3515@outlook.kr) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
 
-<details> <summary><h2><b>📊 GitHub 통계 (Stats)</b></h2></summary>
+<details> <summary><b>📊 GitHub 통계 (Stats)</b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight" />
