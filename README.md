@@ -1,4 +1,4 @@
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%233D3D3D&title_bg=%2300E9CD&icon=iconify.svg&icon_color=%23000000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%23646464&title_bg=%2300907F&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub followers](https://img.shields.io/github/followers/banb3515?color=181717&label=Follow&logo=GitHub)
 
 > [![Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=white&link=)]()
