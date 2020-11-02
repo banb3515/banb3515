@@ -1,4 +1,4 @@
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%238A8A8A&title_bg=%230AD586&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%238A8A8A&title_bg=%230AD586&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://github.com/banb3515)
 ![GitHub followers](https://img.shields.io/github/followers/banb3515?color=181717&label=Follow&logo=GitHub)
 
 > [![Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=white&link=)]()
@@ -32,7 +32,16 @@
   <summary><b>📊 GitHub 통계 (Stats)</b></summary>
   <hr>
   <img src="https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true" />
-  <hr>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight" />
+  <hr>
+</details>
+
+<details> 
+  <summary><b>📊 저장소 방문 수 (Repositories Hits)</b></summary>
+  <hr>
+  <a href="https://github.com/banb3515/Hanyang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHanyang&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Hanyang&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=ToDoList&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FAvoidGame&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=AvoidGame&edge_flat=false"/></a>
   <hr>
 </details>
