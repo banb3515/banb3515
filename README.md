@@ -2,7 +2,6 @@
 
 <details>
   <summary><b>🏫 소속 (Affiliation)</b></summary>
-  <br>
   <ul>
     <li>한양공업고등학교, 컴퓨터네트워크과</li>
     <ul><li>Hanyang Technical High School, Computer Network Department</li></ul>
@@ -13,7 +12,6 @@
 
 <details>
   <summary><b>🔎 관심있는 것 (Interesting)</b></summary>
-  <br>
   <ul>
     <li>C#, Java, JavaScript</li>
     <li>WPF, Xamarin</li>
