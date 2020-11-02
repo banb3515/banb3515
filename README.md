@@ -23,12 +23,6 @@
   </ul>
 </details>
 
-<details>
-  <summary><b>🔗 바로가기 (Shortcuts)</b></summary>
-  <br>
-  
-</details>
-
 <details> 
   <summary><b>📊 GitHub 통계 (Stats)</b></summary>
   <br>
