@@ -7,7 +7,8 @@
 
 <details>
   <summary><b>🏫 소속 (Affiliation)</b></summary>
-  <ul style="margin: 5;">
+  <hr>
+  <ul>
     <li>한양공업고등학교, 인공지능소프트웨어과</li>
     <ul><li>Hanyang Technical High School, AI Software Department</li></ul>
     <li>(주)새움</li>
@@ -17,6 +18,7 @@
 
 <details>
   <summary><b>🔎 관심있는 것 (Interesting)</b></summary>
+  <hr>
   <ul>
     <li>C#, Java, JavaScript</li>
     <li>WPF, Xamarin</li>
