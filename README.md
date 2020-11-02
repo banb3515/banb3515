@@ -2,6 +2,7 @@
 
 <details>
   <summary><b>🏫 소속 (Affiliation)</b></summary>
+  <br>
   <ul>
     <li>한양공업고등학교, 컴퓨터네트워크과</li>
     <ul><li>Hanyang Technical High School, Computer Network Department</li></ul>
@@ -12,6 +13,7 @@
 
 <details>
   <summary><b>🔎 관심있는 것 (Interesting)</b></summary>
+  <br>
   <ul>
     <li>C#, Java, JavaScript</li>
     <li>WPF, Xamarin</li>
@@ -20,6 +22,7 @@
 
 <details>
   <summary><b>🔗 바로가기 (Shortcuts)</b></summary>
+  <br>
   <a href=""><img alt="Blog" src="https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=white&link="></a>
   <a href="https://www.facebook.com/banb3515"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/banb3515"></a>
   <a href="mailto:banb3515@outlook.kr"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:banb3515@outlook.kr"></a>
@@ -28,6 +31,7 @@
 
 <details> 
   <summary><b>📊 GitHub 통계 (Stats)</b></summary>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight" />
