@@ -25,7 +25,7 @@
   <hr>
   <ul>
     <li>C#, Java, JavaScript</li>
-    <li>WPF, Xamarin</li>
+    <li>WPF, Xamarin, ASP.NET</li>
   </ul>
   <hr>
 </details>
