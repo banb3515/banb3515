@@ -1,4 +1,5 @@
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2F&count_bg=%235BB418&title_bg=%232EB5FC&icon=csharp.svg&icon_color=%235E25BE&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/banb3515?color=181717&label=Follow&logo=GitHub)
+> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%233D3D3D&title_bg=%2300E9CD&icon=iconify.svg&icon_color=%23000000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub followers](https://img.shields.io/github/followers/banb3515?color=181717&label=Follow&logo=GitHub)
 
 > [![Blog](https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=white&link=)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/banb3515)](https://www.facebook.com/banb3515)
