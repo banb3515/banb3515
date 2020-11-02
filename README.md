@@ -14,6 +14,7 @@
     <li>(주)새움</li>
     <ul><li>Saewoom, Inc.</li></ul>
   </ul>
+  <hr>
 </details>
 
 <details>
@@ -23,6 +24,7 @@
     <li>C#, Java, JavaScript</li>
     <li>WPF, Xamarin</li>
   </ul>
+  <hr>
 </details>
 
 <details> 
@@ -31,4 +33,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true" />
   <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight" />
+  <hr>
 </details>
