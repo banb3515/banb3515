@@ -6,6 +6,8 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:banb3515@outlook.kr)](mailto:banb3515@outlook.kr)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
 
+---
+
 <details>
   <summary><b>🏫 소속 (Affiliation)</b></summary>
   <hr>
