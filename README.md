@@ -15,6 +15,6 @@
 
 <details> <summary><b>📊 GitHub 통계 (Stats)</b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true" />
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight" />
 </details>
