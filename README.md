@@ -12,8 +12,8 @@
   <summary><b>🔎 관심있는 것 (Interesting)</b></summary>
   <hr>
   <ul>
-    <li>C#, Java, JavaScript</li>
-    <li>WPF, Xamarin, ASP.NET</li>
+    <li>C#, C++, Java, JavaScript</li>
+    <li>WPF, MFC, Xamarin, ASP.NET</li>
   </ul>
   <hr>
 </details>
@@ -30,6 +30,7 @@
 <details> 
   <summary><b>📁 저장소 방문 수 (Repositories Hits)</b></summary>
   <hr>
+  <a href="https://github.com/banb3515/Snowfall"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FSnowfall&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Snowfall&edge_flat=false"/></a>
   <a href="https://github.com/banb3515/Hanyang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHanyang&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Hanyang&edge_flat=false"/></a>
   <a href="https://github.com/banb3515/ToDoList"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=ToDoList&edge_flat=false"/></a>
   <a href="https://github.com/banb3515/AvoidGame"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FAvoidGame&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=AvoidGame&edge_flat=false"/></a>
