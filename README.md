@@ -9,18 +9,6 @@
 ---
 
 <details>
-  <summary><b>🏫 소속 (Affiliation)</b></summary>
-  <hr>
-  <ul>
-    <li>한양공업고등학교, 인공지능소프트웨어과</li>
-    <ul><li>Hanyang Technical High School, AI Software Department</li></ul>
-    <li>(주)새움</li>
-    <ul><li>Saewoom, Inc.</li></ul>
-  </ul>
-  <hr>
-</details>
-
-<details>
   <summary><b>🔎 관심있는 것 (Interesting)</b></summary>
   <hr>
   <ul>
