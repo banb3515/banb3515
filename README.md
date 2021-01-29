@@ -9,9 +9,14 @@
 ---
 
 <details>
-  <summary><b>🌐 프로그래밍 언어 (Programming Language)</b></summary>
+  <summary><b>🌐 사용중인 프로그래밍 언어 (Programming Language in Use)</b></summary>
   <hr>
-  <blockquote>C#, C++, Java, JavaScript</blockquote>
+  <blockquote>
+    C#
+    C++
+    Java
+    JavaScript
+  </blockquote>
   <hr>
 </details>
 
