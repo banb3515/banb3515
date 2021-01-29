@@ -9,12 +9,9 @@
 ---
 
 <details>
-  <summary><b>🔎 관심있는 것 (Interesting)</b></summary>
+  <summary><b>🌐 프로그래밍 언어 (Programming Language)</b></summary>
   <hr>
-  <ul>
-    <li>C#, C++, Java, JavaScript</li>
-    <li>WPF, MFC, Xamarin, ASP.NET</li>
-  </ul>
+  <blockquote>C#, C++, Java, JavaScript</blockquote>
   <hr>
 </details>
 
