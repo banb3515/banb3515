@@ -30,6 +30,7 @@
 <details> 
   <summary><b>📁 저장소 방문 수 (Repositories Hits)</b></summary>
   <hr>
+  <a href="https://github.com/banb3515/Genshin-Impact-Tasks"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FGenshin-Impact-Tasks&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Genshin-Impact-Tasks&edge_flat=false"/></a>
   <a href="https://github.com/banb3515/Snowfall"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FSnowfall&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Snowfall&edge_flat=false"/></a>
   <a href="https://github.com/banb3515/Hanyang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHanyang&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Hanyang&edge_flat=false"/></a>
   <a href="https://github.com/banb3515/ToDoList"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FToDoList&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=ToDoList&edge_flat=false"/></a>
