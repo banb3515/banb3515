@@ -2,9 +2,8 @@
 ![Follow](https://img.shields.io/github/followers/banb3515?color=181717&label=Follow&logo=GitHub)
 
 > [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=GitHub&logoColor=white&link=)](https://banb3515.github.io/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/banb3515)](https://www.facebook.com/banb3515)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:banb3515@outlook.kr)](mailto:banb3515@outlook.kr)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/banb3515)](https://www.facebook.com/banb3515)
 
 ---
 
