@@ -1,7 +1,7 @@
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%238A8A8A&title_bg=%230AD586&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://github.com/banb3515)
 ![Follow](https://img.shields.io/github/followers/banb3515?color=181717&label=Follow&logo=GitHub)
 
-> ![Website](https://img.shields.io/website?down_color=red&down_message=X&label=Website&logo=github&style=for-the-badge&up_color=green&up_message=O&url=https%3A%2F%2Fbanb3515.github.io) [![Gmail](https://img.shields.io/badge/--Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
+> ![Website](https://img.shields.io/website?down_color=red&down_message=X&label=Website&logo=github&style=for-the-badge&up_color=green&up_message=O&url=https%3A%2F%2Fbanb3515.github.io) [![Gmail](https://img.shields.io/badge/ㅤ-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
 
 ---
 
