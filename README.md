@@ -12,7 +12,9 @@
     <blockquote><img src="https://img.shields.io/badge/C%23-A566FF?style=for-the-badge&logo=CSharp&logoColor=white"/></blockquote>
     <blockquote><img src="https://img.shields.io/badge/Java-DE4F4F?style=for-the-badge&logo=Java&logoColor=white"/></blockquote>
     <blockquote>
-      <img src="https://img.shields.io/badge/JavaScript-F2CB61?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/HTML5-DB3A00?style=for-the-badge&logo=HTML5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/CSS3-3DB7CC?style=for-the-badge&logo=CSS3&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/JavaScript-F2CB61?style=for-the-badge&logo=JavaScript&logoColor=white"/>
     </blockquote>
   <hr>
 </details>
