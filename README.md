@@ -9,9 +9,11 @@
 <details>
   <summary><b>🌐ㅤ사용중인 프로그래밍 언어 (Programming Language in Use)</b></summary>
   <hr>
-    - C++
-    - C#
-    - Java
+    <ul>
+      <li>C++</li>
+      <li>C#</li>
+      <li>Java</li>
+    </ul>
   <hr>
 </details>
 
