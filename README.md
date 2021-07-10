@@ -6,11 +6,14 @@
 ---
 
 <details>
-  <summary><b>🌐ㅤ사용중인 프로그래밍 언어 (Programming Language in Use)</b></summary>
+  <summary><b>🌐ㅤ사용중인 언어 (Language in Use)</b></summary>
   <hr>
     <blockquote><img src="https://img.shields.io/badge/C++-4374D9?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></blockquote>
     <blockquote><img src="https://img.shields.io/badge/C%23-A566FF?style=for-the-badge&logo=CSharp&logoColor=white"/></blockquote>
     <blockquote><img src="https://img.shields.io/badge/Java-DE4F4F?style=for-the-badge&logo=Java&logoColor=white"/></blockquote>
+    <blockquote>
+      <img src="https://img.shields.io/badge/JavaScript-DE4F4F?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+    </blockquote>
   <hr>
 </details>
 
