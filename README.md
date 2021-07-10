@@ -28,7 +28,7 @@
 <details> 
   <summary><b>📁ㅤ저장소 방문 수 (Repositories Hits)</b></summary>
   <hr>
-    <blockquote><h3><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%238A8A8A&title_bg=%23875E00&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></h3></blockquote>
+    <blockquote><h3><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%23875E00&title_bg=%233F4141&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></h3></blockquote>
     <ul>
       <li>
         <a href="https://github.com/banb3515/HeyMask"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHeyMask&count_bg=%23875E00&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=HeyMask&edge_flat=false"/></a> 
