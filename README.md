@@ -31,11 +31,11 @@
     <blockquote><h3><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515&count_bg=%238A8A8A&title_bg=%230AD586&icon=iconify.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></h3></blockquote>
     <ul>
       <li>
-        <a href="https://github.com/banb3515/HeyMask"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHeyMask&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=HeyMask&edge_flat=false"/></a> 
-        <a href="https://github.com/banb3515/HeyMaskViewer"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHeyMaskViewer&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=HeyMaskViewer&edge_flat=false"/></a>
+        <a href="https://github.com/banb3515/HeyMask"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHeyMask&count_bg=%23875E00&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=HeyMask&edge_flat=false"/></a> 
+        <a href="https://github.com/banb3515/HeyMaskViewer"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHeyMaskViewer&count_bg=%23875E00&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=HeyMaskViewer&edge_flat=false"/></a>
       </li>
-      <li><a href="https://github.com/banb3515/Genshin-Impact-Tasks"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FGenshin-Impact-Tasks&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Genshin-Impact-Tasks&edge_flat=false"/></a></li>
-      <li><a href="https://github.com/banb3515/Hanyang-App"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHanyang-App&count_bg=%2364E900&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Hanyang-App&edge_flat=false"/></a></li>
+      <li><a href="https://github.com/banb3515/Genshin-Impact-Tasks"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FGenshin-Impact-Tasks&count_bg=%23875E00&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Genshin-Impact-Tasks&edge_flat=false"/></a></li>
+      <li><a href="https://github.com/banb3515/Hanyang-App"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbanb3515%2FHanyang-App&count_bg=%23875E00&title_bg=%233F4141&icon=linuxfoundation.svg&icon_color=%23FFFFFF&title=Hanyang-App&edge_flat=false"/></a></li>
     </ul>
   <hr>
 </details>
