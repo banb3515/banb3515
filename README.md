@@ -9,7 +9,7 @@
   <summary><b>🌐ㅤ사용중인 프로그래밍 언어 (Programming Language in Use)</b></summary>
   <hr>
     <ul>
-      <li><img src="https://img.shields.io/badge/C++-d14836?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></li>
+      <li><img src="https://img.shields.io/badge/C++-4374D9?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></li>
       <li>C#</li>
       <li>Java</li>
     </ul>
