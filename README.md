@@ -1,4 +1,5 @@
-> [![Website](https://img.shields.io/website?down_color=red&down_message=X&label=Website&logo=github&style=for-the-badge&up_color=green&up_message=O&url=https%3A%2F%2Fbanb3515.github.io)](https://banb3515.github.io)
+> [![GitLab](https://img.shields.io/badge/GitLab-F29661?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/BanB3515)
+[![Website](https://img.shields.io/website?down_color=red&down_message=X&label=Website&logo=github&style=for-the-badge&up_color=green&up_message=O&url=https%3A%2F%2Fbanb3515.github.io)](https://banb3515.github.io)
 ![GitHub followers](https://img.shields.io/github/followers/banb3515?color=875E00&logo=github&style=for-the-badge)
 
 > [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:banb3515@gmail.com)](mailto:banb3515@gmail.com)
