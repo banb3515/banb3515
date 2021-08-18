@@ -1,4 +1,4 @@
-> [![Website](https://img.shields.io/website?down_color=red&down_message=X&label=Website&logo=github&style=for-the-badge&up_color=green&up_message=O&url=http%3A%2F%2Fbanb.work)](http://banb.work)
+> [![Website](https://img.shields.io/website?down_color=red&down_message=X&label=Website&logo=vue.js&style=for-the-badge&up_color=green&up_message=O&url=http%3A%2F%2Fbanb.work)](http://banb.work)
 
 > [![GitLab](https://img.shields.io/badge/GitLab-E0844F?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/BanB3515)
 
