@@ -7,7 +7,7 @@
 
 ---
 
-### 🌐 사용중인 언어 (Language in Use)
+### 🌐 &nbsp;사용중인 언어 (Language in Use)
 > ![C++](https://img.shields.io/badge/C++-4374D9?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 > 
 > ![C#](https://img.shields.io/badge/C%23-A566FF?style=for-the-badge&logo=CSharp&logoColor=white) 
