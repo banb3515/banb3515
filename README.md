@@ -17,3 +17,10 @@
 > ![HTML5](https://img.shields.io/badge/HTML5-DB3A00?style=for-the-badge&logo=HTML5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-3DB7CC?style=for-the-badge&logo=CSS3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F2CB61?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+---
+
+### 📊 &nbsp;GitHub 통계 (GitHub Stats)
+
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true)
+> ![GitHub Stats - Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight)
