@@ -22,5 +22,5 @@
 
 ### 📊 &nbsp;GitHub 통계 (GitHub Stats)
 
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true)
 > ![GitHub Stats - Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=banb3515&theme=tokyonight)
+> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=banb3515&show_icons=true&theme=tokyonight&count_private=true)
