@@ -14,11 +14,11 @@
 > 
 > ![C#](https://img.shields.io/badge/C%23-A566FF?style=for-the-badge&logo=CSharp&logoColor=white) 
 > 
-> ![Java](https://img.shields.io/badge/Java-DE4F4F?style=for-the-badge&logo=Java&logoColor=white) 
-> 
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F2CB61?style=for-the-badge&logo=JavaScript&logoColor=white)
 > 
 > ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=Vue.js&logoColor=white)
+> 
+> ![Java](https://img.shields.io/badge/Java-DE4F4F?style=for-the-badge&logo=Java&logoColor=white) 
 
 ---
 
