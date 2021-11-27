@@ -16,9 +16,9 @@
 > 
 > ![Java](https://img.shields.io/badge/Java-DE4F4F?style=for-the-badge&logo=Java&logoColor=white) 
 > 
-> ![HTML5](https://img.shields.io/badge/HTML5-DB3A00?style=for-the-badge&logo=HTML5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-3DB7CC?style=for-the-badge&logo=CSS3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F2CB61?style=for-the-badge&logo=JavaScript&logoColor=white)
+> 
+> ![Vue.js](https://img.shields.io/badge/Vue.js-F2CB61?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 ---
 
