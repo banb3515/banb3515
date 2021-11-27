@@ -18,7 +18,7 @@
 > 
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F2CB61?style=for-the-badge&logo=JavaScript&logoColor=white)
 > 
-> ![Vue.js](https://img.shields.io/badge/Vue.js-F2CB61?style=for-the-badge&logo=Vue.js&logoColor=white)
+> ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 ---
 
