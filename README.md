@@ -39,7 +39,7 @@
 ### 🏆 Awards
 - **Open Ko-LLM Leaderboard 1위**  
   *(2024.02.25)*  
-- **NIA 올해의 LLM 2023 Finetuning 분야 1위**  
+- **NIA, 2023 올해의 LLM Finetuning 분야 1위**  
   *(2024.04.05)*  
 
 ### 💼 Work Experience
