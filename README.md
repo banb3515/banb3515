@@ -4,7 +4,7 @@
 - AI (Machine Learning) Researcher  
 
 ### 📚 Education
-- 국민대학교 소프트웨어융합대학원 / 인공지능전공 `2025.03 ~ `
+- 국민대학교 소프트웨어융합대학원 / 인공지능 `2025.03 ~ `
 
 ### 💼 Work Experience
 - [(주)이든티앤에스](https://edentns.com/) `2023.06 ~ `
