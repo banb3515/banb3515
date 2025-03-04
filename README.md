@@ -37,10 +37,10 @@
 </div>
 
 ### 🏆 Awards
-- **Open Ko-LLM Leaderboard 1위**  
-  *(2024.02.25)*  
 - **NIA, 2023 올해의 LLM Finetuning 분야 1위**  
   *(2024.04.05)*  
+- **Open Ko-LLM Leaderboard 1위**  
+  *(2024.02.25)*  
 
 ### 💼 Work Experience
 - **(주)이든티앤에스** / 기술연구소 AI부문  
